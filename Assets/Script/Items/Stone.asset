@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37df32def3d34fe41be6efd4c3202d45, type: 3}
   m_Name: Stone
   m_EditorClassIdentifier: 
-  name: Stone
+  name: Pierre
+  description: Une pierre qui vous servira dans la fabrication d'objets
   visual: {fileID: 21300000, guid: f7111abcf951a1f4398426869d06640b, type: 3}
-  prefab: {fileID: 1755896941651396824, guid: 957886cbd4585784081f60ce1b5beb11, type: 3}
+  prefab: {fileID: 1316963614802257943, guid: 3721d924857028b4ebcfa26e601188b1, type: 3}
