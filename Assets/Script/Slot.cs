@@ -22,4 +22,10 @@ public class Slot : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
     {
         ToolTipSystem.instance.Hide();
     }
+
+
+    public void ClickOnSlot()
+    {
+        Inventory.instance.OpenActionPanel(item, transform.position);
+    }
 }
